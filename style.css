@@ -1,3 +1,11 @@
+.main-cantainer{
+    border: 1px solid rgb(95, 94, 94);
+    width: 380px;
+    height: 245px;
+    margin: auto;
+    opacity: 15px;
+    box-shadow: 0 0 10px gray;
+}
 .box{
     width: 379px;
     height: 190px;
@@ -12,13 +20,17 @@
     background-image: url(image.jpeg2.jfif);
     background-size: cover;
 }
+.profile:hover{
+    cursor: pointer;
+    color: rgb(182, 186, 189);
+}
 .dec{
-    margin-top: -45px;
-    margin-left: 40px;
+    margin-top: -50px;
+    margin-left: 45px;
     font-size: 15px;
 }
 .text-light{
      opacity: 0.3;
-     color: lightblue;
+     color: rgb(103, 104, 104);
      margin-top:-15px;
 }
