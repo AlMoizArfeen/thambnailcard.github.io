@@ -1,0 +1,24 @@
+.box{
+    width: 379px;
+    height: 190px;
+    border: 1px solid black;
+    box-shadow: inset;
+    margin: auto;  
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-image: url(image.jpeg2.jfif);
+    background-size: cover;
+}
+.dec{
+    margin-top: -45px;
+    margin-left: 40px;
+    font-size: 15px;
+}
+.text-light{
+     opacity: 0.3;
+     color: lightblue;
+     margin-top:-15px;
+}
